@@ -11,6 +11,7 @@ module.exports = {
         // indent of 2 is too narrow and difficult to understand
         "indent": ["error", 4],
         "react/jsx-indent": ["error", 4],
+        "react/jsx-indent-props": ["error", 4],
         // Ptops validation is not necessary
         "react/prop-types": ["off"]
 
